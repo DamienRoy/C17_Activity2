@@ -219,4 +219,6 @@ function spawnClouds() {
   }
 }
 
-//Help
+//Help us
+//The End is Coming
+//It shall Destroy all
